@@ -33,24 +33,12 @@ The purpose of this challenge was to determine the fund with the most investment
 
 None of the four portfolios outperform the S&P 500 index.
 
-![](Images/Cumulative_Retuns_4_Funds_Plus_SP500)
-
 The most volatile of the four fund portfolios is Berkshire Hathaway. The least volatile is Tiger Global Management.
-
-[insert image]
 
 Based on the rolling metrics, to an extent, the risk of each portfolio increases at same time that the risk of the S&P 500. This does not always hold true, as we see the risk of the S&P 500 spikes spiratically while the 4 portfolios tend to stay more contstant. The biggest exception to this is in 2020, where there was the greatest increase in risk across the 4 funds and the S&P 500.
 
 Initially, Soros Fund Management posed as the most risk. However, that changed in the middle fo 2016, where Berkshire Hathaway posed the most risk until the end of the dataset (September 11, 2020).
 
-[insert image/s]
-
 Berkshire Hathaway offers the best risk-return profile. Paulson & Co offers the worst risk-return profile.
 
-[insert image]
-
 Berkshire Hathaway is more sensitive to movements in the S&P 500 than Tiger Global Management.
-
-I recommend Tiger Global Management for inclusion in my firm's suite of fund offerings because its rolling beta is closer to 0, meaning that regardless of the movement of the S&P 500, the portfolio's value will likely not change. It is a less risky portfolio than Berkshire Hathaway.
-
-[insert custom overlayd chart image]
