@@ -33,7 +33,7 @@ The purpose of this challenge was to determine the fund with the most investment
 
 None of the four portfolios outperform the S&P 500 index.
 
-[insert image]
+<img src='Cumulative_Retuns_4_Funds_Plus_SP500.png' width='100' >
 
 The most volatile of the four fund portfolios is Berkshire Hathaway. The least volatile is Tiger Global Management.
 
